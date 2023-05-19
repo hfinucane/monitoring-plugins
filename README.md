@@ -37,6 +37,7 @@ Currently, This project will attempt to provide support for the following plugin
 - `check_tcp`
 - `check_time`
 - `check_users`
+- `check_uptime`
 
 
 ### Caveats
